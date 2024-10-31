@@ -1,7 +1,7 @@
-# Amazon Sales Analysis 
+#Customer and Sales Analysis of Amazon E-commerce
 
 ## Introduction
-The "Amazon Sales Analysis" project is a Python-based data analysis endeavor aimed at exploring and understanding sales data obtained from Amazon. The project employs various Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, to analyze and visualize the dataset.
+This project is a Python-based data analysis endeavor aimed at exploring and understanding sales data obtained from Amazon. The project employs various Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, to analyze and visualize the dataset.
 
 ## Data Loading and Inspection
 The first step involves loading the sales data from a CSV file using Pandas. The dataset contains 128,976 entries with 21 columns, including information such as Order ID, Date, Status, Sales Channel, Quantity, Amount, and more. Initial inspection using methods like `head()`, `info()`, and `shape` provides a quick overview of the data structure.
